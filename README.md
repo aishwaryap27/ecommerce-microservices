@@ -1,6 +1,6 @@
 # E-commerce Microservices
 
-This repository contains the Phase 1 implementation of an e-commerce microservice platform built with Java 26, Spring Boot, Spring Cloud, MySQL, and Maven.
+This repository contains the Phase 1 implementation of an e-commerce microservice platform built with Java 21, Spring Boot, Spring Cloud, MySQL, and Maven.
 
 ## Phase 1 implemented
 
